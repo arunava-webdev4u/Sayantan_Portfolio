@@ -1,0 +1,16 @@
+Page will look similar to :-
+
+	https://graphicburger.com/preview/html-templates/Personal/index.html
+	https://rainbowit.net/html/inbio/index-white-version.html ---
+
+Image Hover should be like :-
+	https://bootstrapmade.com/demo/templates/MyResume/
+
+Code Refs :-
+	https://bootstrapmade.com/bootstrap-portfolio-templates/
+	https://wpastra.com/website-templates/personal/portfolio/
+	https://www.youtube.com/watch?v=YfmYUtGOaTg&ab_channel=WebKitCoding
+	https://www.tailwindawesome.com/?price=free&type=template
+https://javascript.plainenglish.io/40-portfolio-templates-free-for-web-design-d0611a372763
+
+https://tailwindcss.com/docs/installation
