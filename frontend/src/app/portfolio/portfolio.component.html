@@ -1,3 +1,6 @@
-<div class="h-screen">
+<div class="h-screen" id="portfolio">
     <h1 class="text-logo text-5xl font-semibold text-center mt-8">MY PORTFOLIO</h1>
+    <div class="grid grid-cols-3 grid-rows-2 gap-6 mt-10">
+        <app-projectcard *ngFor="let project of projects" [title]="project.title" [url]="project.imageURL"></app-projectcard>
+    </div>
 </div>
