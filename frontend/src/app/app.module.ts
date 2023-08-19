@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { LoadingComponent } from './loading/loading.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
+import { PortfolioComponent } from './portfolio/portfolio.component';
 
 @NgModule({
     declarations: [
         AppComponent,
         LoadingComponent,
         NavbarComponent,
-        HomeComponent
+        HomeComponent,
+        PortfolioComponent
     ],
     imports: [
         BrowserModule,
