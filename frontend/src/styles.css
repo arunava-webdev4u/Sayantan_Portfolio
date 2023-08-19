@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card {
+    border-radius: 10px;
+    background: rgb(228,234,238);
+    background: linear-gradient(135deg, rgba(228,234,238,1) 0%, rgba(255,255,255,1) 100%);
+    box-shadow: 6px 6px 12px #DCE2EB, -6px -6px 12px #FFFFFF;
+} 

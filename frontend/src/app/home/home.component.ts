@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+// import Typewriter from 'typewriter-effect';
 
 @Component({
   selector: 'app-home',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
+    // constructor() {
+    //     let element = document.getElementById('typewriter');
+    //     console.log(element)
+        // let typewriter = new Typewriter()
+    // }
 }

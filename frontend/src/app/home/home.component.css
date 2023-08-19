@@ -10,6 +10,34 @@
     DCE2EB
 */
 
-#card {
+/* .card {
+    border-radius: 10px;
+    background: rgb(228,234,238);
+    background: linear-gradient(135deg, rgba(228,234,238,1) 0%, rgba(255,255,255,1) 100%);
+    box-shadow: 6px 6px 12px #DCE2EB, -6px -6px 12px #FFFFFF;
+}  */
+
+/* #dynamic-texts li {
+    list-style: none;
+}
+
+#dynamic-texts li span {
+    position: relative;
     
 }
+#dynamic-texts li span::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-left: 4px solid #Ec4d37;
+    background-color: #ECF0F3;
+    animation: typing 1s steps(25) infinite;
+}
+@keyframes typing {
+    100% {
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+} */
