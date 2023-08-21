@@ -1,5 +1,9 @@
-<div class="card">
-    <!-- <div class="image"></div> -->
-    <img src="{{ url }}" alt="" class="w-4/5">
-    <p class="">Title: {{ title }}</p>
-</div>
+<a href="{{ url }}" target="_blank">
+    <div class="card p-8 h-full grid grid-rows-10 gap-1">
+        <div class="row-span-8">
+            <img src="{{ imageUrl }}" alt="Project Image" class="w-full rounded-lg">
+        </div>
+        <p class="row-span-1 text-sm font-bold text-logo">{{ type }}</p>
+        <p class="row-span-1 text-xl font-semibold">Title: {{ title }}</p>
+    </div>
+</a>
