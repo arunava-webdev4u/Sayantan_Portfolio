@@ -1,9 +1,9 @@
 <a href="{{ url }}" target="_blank">
-    <div class="card p-8 h-full grid grid-rows-10 gap-1">
+    <div class="card p-5 xl:p-8 h-full grid grid-rows-10 gap-1">
         <div class="row-span-8">
-            <img src="{{ imageUrl }}" alt="Project Image" class="w-full rounded-lg">
+            <img src="{{ imageUrl }}" alt="Project Image" class="w-full rounded-xl xl:rounded-lg mb-2">
         </div>
-        <p class="row-span-1 text-sm font-bold text-logo">{{ type }}</p>
+        <p class="row-span-1 text-xs xl:text-sm font-bold text-logo">{{ type }}</p>
         <p class="row-span-1 text-xl font-semibold">Title: {{ title }}</p>
     </div>
 </a>
